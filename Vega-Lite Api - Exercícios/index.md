@@ -1,2 +1,2 @@
-<iframe width="100%" height="470" frameborder="0"
-  src="https://observablehq.com/embed/@luckryan020/vega-lite-api-exercicios-2022?cells=grafico1"></iframe>
+<iframe width="100%" height="1509" frameborder="0"
+  src="https://observablehq.com/embed/53fdd20a73a09c00?cells=gBarras%2Cscatter"></iframe>
